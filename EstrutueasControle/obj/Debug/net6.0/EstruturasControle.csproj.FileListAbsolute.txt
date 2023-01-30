@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\bin\Debug\net6.0\EstruturasControle.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\bin\Debug\net6.0\EstruturasControle.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\bin\Debug\net6.0\EstruturasControle.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\bin\Debug\net6.0\EstruturasControle.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\bin\Debug\net6.0\EstruturasControle.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\refint\EstruturasControle.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\EstruturasControle.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstrutueasControle\obj\Debug\net6.0\ref\EstruturasControle.dll

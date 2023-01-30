@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\refint\EstruturasRepeticao.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula2\EstruturasRepeticao\obj\Debug\net6.0\ref\EstruturasRepeticao.dll
